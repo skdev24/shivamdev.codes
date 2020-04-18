@@ -5,6 +5,7 @@ import * as serviceWorker from "./serviceWorker";
 
 document.body.style.margin = '0px'
 document.body.style.backgroundColor = '#3327756e'
+document.title = 'Shivam Dev'
 
 
 ReactDOM.render(
